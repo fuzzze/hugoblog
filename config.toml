@@ -3,4 +3,4 @@ languageCode = "ru"
 DefaultContentLanguage = "ru"
 title = "Тестовый сайт на Хуго"
 theme = "ananke"
-timeZone = 'Asia/Irkutsk'
+timeZone = "Asia/Irkutsk"
