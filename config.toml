@@ -1,4 +1,4 @@
 baseURL = "https://hugoblog-drab.vercel.app/"
-languageCode = "ru-ru"
+languageCode = "RU"
 title = "Тестовый сайт на Хуго"
 theme = "ananke"
