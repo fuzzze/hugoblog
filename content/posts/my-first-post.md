@@ -15,7 +15,7 @@ lastmod: 2025-12-22T08:35:23.986982Z
 Неужели это работает?
 Вторая попытка
 
-![](/images/2025/12/F0E8F772-6AB5-4D94-A2FA-22FDE6A21BC7-19180-0000232962C9C352.jpg)
+![](https://hugoblog-drab.vercel.app/images/2025/12/F0E8F772-6AB5-4D94-A2FA-22FDE6A21BC7-19180-0000232962C9C352.jpg)
 
 
 
