@@ -20,7 +20,7 @@
       </h1>
       {{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
       <time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "01/02 03:04:05PM"  "Asia/Irkutsk"  }}">
-        {{- .Date.Format "01/02 03:04:05PM '06 0800" -}}
+        {{- .Date.Format "01/02 03:04:05PM"  "Asia/Irkutsk" -}}
       </time>
       {{/*
           Show "reading time" and "word count" but only if one of the following are true:
